@@ -19,18 +19,6 @@ Has intention to lease/Rent unit been previousely given: [ ] Yes [ ] No
 Date approval was given:
 Date last lease expired:
 
+Unit owner must submit a signed copy of the Gov Docs - Rental Policy
 
-
-
-------------------------------------------------
-Unit Owners Name (Printed):
-
-
-
-------------------------------------------------
-Unit Owners Signature:
-
-
-
-------------------------------------------------
-Date:
+This form does not require a signature.
