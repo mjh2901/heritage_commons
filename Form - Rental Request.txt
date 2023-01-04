@@ -19,6 +19,10 @@ Has intention to lease/Rent unit been previousely given: [ ] Yes [ ] No
 Date approval was given:
 Date last lease expired:
 
+
+
+
+------------------------------------------------
 Unit Owners Name (Printed):
 
 
@@ -30,7 +34,3 @@ Unit Owners Signature:
 
 ------------------------------------------------
 Date:
-
-
-
-------------------------------------------------
