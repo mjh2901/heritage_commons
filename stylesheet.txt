@@ -40,4 +40,3 @@ Line 2: Document Title
     4.4 Check off lists are formatted with a [ ] as the checkbox
 
     4.5 Lists items are preceded by a - 
-
