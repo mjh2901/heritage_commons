@@ -1,6 +1,6 @@
-# Heritage Commons HOA
+# HERITAGE COMMONS HOME OWNERS ASSOCIATION
 
-Heritage Commons Home Owners Association DOCS 
+Heritage Commons Home Owners Association Documents
 
 CC&R's, Rules and Regulations, Policy Documents, and Forms
 
@@ -10,10 +10,11 @@ Forms Instructions:
     
     -   Forms can be coppied into any document editor.
     
-    -   Once coppied into the document editor of your choice simply fill the requested information.
+    -   Once coppied into the document editor of your choice simply fill in the requested information.
 
     -   Forms not requiring signatures can be emailed or faxed directly with required attachments to the association manager.
-            Email: custermerservice@bayservice.net
+            Manager Email: jeff@bayservice.net
+            Generic Customer Service Email: customerservice@bayservice.net
             Fax: (925) 746-0554
 
     -   Forms requiring a signature should still be emailed or faxed but in addition must also be printed, signed and mailed to:
