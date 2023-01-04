@@ -1,6 +1,6 @@
 # Heritage Commons HOA
 
-Heritage Commons Home Owners Association Docs
+Heritage Commons Home Owners Association DOCS 
 
 CC&R's, Rules and Regulations, Policy Documents, and Forms
 
