@@ -2,10 +2,11 @@ HERITAGE COMMONS HOMEOWNERS ASSOCIATION
 Elections Policy
 
 
-1.    General. These Rules are intended to comply with Civil Code section 1363.03 and shall apply to elections (1) of the Board of Directors, and regarding (2) assessments, (3) amendments to the governing documents, (4) the granting of exclusive use of common area property, and (5) any other matter that may be the subject of a vote of Association members. These Rules shall be effective July 1, 2006.
+1.    GENERAL
+      These Rules are intended to comply with Civil Code section 1363.03 and shall apply to elections (1) of the Board of   Directors, and regarding (2) assessments, (3) amendments to the governing documents, (4) the granting of exclusive use of common area property, and (5) any other matter that may be the subject of a vote of Association members. These Rules shall be effective July 1, 2006.
 
 
-2.    Equal Access to Association Media and Facilities
+2.    EQUAL ACCESS TO FACILITES
 
       2.1 No candidate or Association member advocating a point of view for purposes related to an election covered by these Rules shall be allowed access to any form of Association media, including newsletters and/or common area bulletin board, after written ballots are distributed as specified in Section 7.1 until the conclusion of the election.
 
@@ -14,7 +15,7 @@ Elections Policy
       2.3 Sections 2.1 and 2.2, above, specify the manner in which the Association shall comply with the legal requirement in Civil Code section 1363.03 that "if any candidate or member advocating a point of view is provided access to Association media, newsletters, or Internet Web sites during a campaign, for purposes that are reasonably related to that election, equal access shall be provided to all candidates and members advocating a point of view, including those not endorsed by the Board, for pm-poses that are reasonably related to the election."
 
 
-3.    Qualifications of Candidates
+3.    QUALIFICATIONS OF CANDIDATES
 
      3.1 Candidates for the Board of Directors must meet qualifications as set forth in the Association Bylaws and as set forth hereafter.
 
@@ -30,9 +31,9 @@ Elections Policy
 
            3.2.5    Reside fulltime within owned unit.
 
-4.    Nomination Procedure for Board of Directors
+4.    NOMINATION PROCEDURE FOR BOARD OF DIRECTORS    
 
-      4.1 Candidates for the Board of Directors shall be nominated as set forth in the Association Bylaws and as set forth hereafter.
+      4.1   Candidates for the Board of Directors shall be nominated as set forth in the Association Bylaws and as set forth hereafter.
 
       4.2   To the extent not in conflict with Association Bylaws:
 
@@ -47,7 +48,7 @@ Elections Policy
       4.3 Nominated candidates for the Board of Directors may provide a "candidate statement" which the Association shall enclose with the voting packet mailed to each Association member. The statement shall not exceed 250 words, and shall be delivered to the Association's managing agent in final form at least 45 days before the scheduled conclusion of the election.
 
 
-5.    Inspectors of Election
+5.    INSPECTORS OF ELECTIONS
 
       5.1 The Board shall appoint one to three Inspectors of Election who shall perform all functions required by Civil Code section 1363.03(c)(3), including:
 
@@ -83,7 +84,7 @@ Elections Policy
       5.5 The Inspectors of Election shall have the sole authority to determine whether to issue a replacement ballot to a member if requested by the member.
 
 
-6.    Voting Rights
+6.    VOTING RIGHTS
 
       6.1 Each Association membership shall be entitled to a single vote with regard to each matter that is the subject of a pending election.
 
@@ -92,11 +93,10 @@ Elections Policy
       6.4 The voting period will run from the date on which ballots are distributed (as specified in Section 7.1, below) until the conclusion of the election.
 
 
-7.    Voting Procedures
+7.    VOTING PROCEDURES
 
       7.1 Mailing of voting packets. No later than 35 days before the election, the Association or Inspector of Election shall, by first class U.S. mail, send one voting packet to each Association member. Each packet shall contain the following:
 
-                                                 3 of 6
             7.1.1. One official ballot; or at boards discression ballot information for voting on the Balloteer.com online election system.
 
             7.1.2  Copies of all candidates' statements timely submitted to the Association as specified herein;
@@ -135,7 +135,7 @@ Elections Policy
 
       7.4.2    If a member attempts to use a proxy, any instruction given in that proxy directing the manner in which the proxy holder is to vote should be set forth on a separate page of the proxy that can be detached and given to the proxy holder to retain. The proxy holder may then cast the member's vote by secret ballot, which will be provided by the Inspectors of Election upon presentation of the proxy.
 
-8.    Tabulation of Ballots
+8.    TABULATION OF BALLOTS
 
       8.1 The voting packets shall be opened by the Inspectors of Election after the close of the election as determined by the Inspectors. The outer envelopes and each ballot shall be separately retained by the Inspectors.
 
@@ -150,9 +150,7 @@ Elections Policy
       8.6 Should Baloteer be used results may not be accessed until the scheduled meeting.  
 
 
-
-                                                5 of 6
-9.    Post-Election Procedures
+9.    POST ELECTION PROCEDURES
 
       9.1 The results of the election shall be recorded in the minutes of the next meeting of the Board of Directors and shall be available for review by members of the Association.
 
