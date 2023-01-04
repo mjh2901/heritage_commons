@@ -15,7 +15,7 @@ This document sets forth the policies of the Heritage Commons Homeowners Associa
 
     3.1 Panels must be located only on roofs directly over ocupied unit.
     
-    3.2 Wires must penetrate roof at the level the panels are installed and foolow a path within the building
+    3.2 Wires must penetrate roof at the level the panels are installed and follow a path within the building
 
     3.3 Boxes, Cutoff switches and breakers must be located within the unit, wires must be run within the walls and not in conduit on the exterior of the buildings.
 
@@ -23,7 +23,7 @@ This document sets forth the policies of the Heritage Commons Homeowners Associa
 
     3.5 Installation must be in accordance with all applicable building, fire, electrical and related codes. If installed outdoors, installation shall be by a licensed and insured installer knowledgeable about the proper installation of solar. All installations shall be in accordance with the manufacturer's installation specifications.
 
-    3.6 To the maximum extent possible, wiring or cabling should be installed so as to be minimally visible and shoutd blend into the material to which it is mounted or placed. Where not unreasonable to do so, conduit must be painted to blend into the background to which it is mounted or placed.
+    3.6 To the maximum extent possible, wiring or cabling should be installed so as to be minimally visible and should blend into the material to which it is mounted or placed. Where not unreasonable to do so, conduit must be painted to blend into the background to which it is mounted or placed.
 
     3.7 The Board may require the Owner to install screens or landscaping, at the Owner's expense.
 
