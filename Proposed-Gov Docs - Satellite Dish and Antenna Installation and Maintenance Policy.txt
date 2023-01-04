@@ -5,61 +5,49 @@ This document sets forth the policies of the Heritage Commons Homeowners Associa
 
 1.  DEFINITIONS
 
-All capitalized terms that are not otherwise defined in these Guidelines shall have the meanings ascribed to them in the Declaration.
+    All capitalized terms that are not otherwise defined in these Guidelines shall have the meanings ascribed to them in the Declaration.
 
 2.  NOTIFICATION
 
-Architectural approval must be obtained prior to the installation of any satellite dish and/or antennae which is not in accordance with the guidelines adopted by the Board of Directors. No satellite dish and/or antennae may be attached to exterior siding including the roof. No satellite dish and/or antennae may be visible from the common area.
+    2.1 Architectural approval must be obtained prior to the installation of any satellite dish and/or antennae which is not in accordance with the guidelines adopted by the Board of Directors. No satellite dish and/or antennae may be attached to exterior siding including the roof. No satellite dish and/or antennae may be visible from the common area.
 
-Before installing a satellite dish or wireless cable antenna system (“Antenna”), Owners are requested to notify the Association of their intent. Owners are encouraged to work with the Association and its Board to determine a suitable location for the Antenna. That location should be the least obtrusive possible without unreasonably delaying the Antenna's installation, unreasonably increasing the cost of its installation, maintenance or use or preventing the Owner from obtaining an acceptable quality signal.
+    2.2 Before installing a satellite dish or wireless cable antenna system (“Antenna”), Owners are requested to notify the Association of their intent. Owners are encouraged to work with the Association and its Board to determine a suitable location for the Antenna. That location should be the least obtrusive possible without unreasonably delaying the Antenna's installation, unreasonably increasing the cost of its installation, maintenance or use or preventing the Owner from obtaining an acceptable quality signal.
 
 3.  ANTENNA TYPE AND SIZE
 
-For the purposes of these Guidelines, the term "Antenna" includes any direct broadcast system (DBS) satellite dish or wireless cable antenna system (MDS or MMDS) and any component of or addition to such antenna, including, without limitation, poles, masts, brackets, cables, or wiring.
+    3.1 For the purposes of these Guidelines, the term "Antenna" includes any direct broadcast system (DBS) satellite dish or wireless cable antenna system (MDS or MMDS) and any component of or addition to such antenna, including, without limitation, poles, masts, brackets, cables, or wiring.
 
-These Guidelines apply to DBS, MDS and MMDS antennas that are one (1) meter or less in diameter or diagonal measurement. Larger antennas are not permitted without the prior approval of the Board of Directors.
+    3.2 These Guidelines apply to DBS, MDS and MMDS antennas that are one (1) meter or less in diameter or diagonal measurement. Larger antennas are not permitted without the prior approval of the Board of Directors.
 
 4.  INSTALLATION
 
-Antennas may be located only on an Owner's balcony, patio (garden area) or deck, however, if an acceptable quality signal can be received by placing the antenna inside the Unit, without an unreasonable delay or increase in cost, then outdoor installation is prohibited. To the maximum extent possible, Antennas should be installed where they are shielded from view from other Units or
-the Common Area.
+    4.1 Antennas may be located only on an Owner's balcony, patio (garden area) or deck, however, if an acceptable quality signal can be received by placing the antenna inside the Unit, without an unreasonable delay or increase in cost, then outdoor installation is prohibited. To the maximum extent possible, Antennas should be installed where they are shielded from view from other Units or the Common Area.
 
-Installation must be in accordance with all applicable building, fire, electrical and related codes. If installed outdoors, installation shall be by a licensed and insured installer knowledgeable about the 1proper installation of Antennas. All installations shall be in accordance with the manufacturer's installation specifications.
+    4.2 Installation must be in accordance with all applicable building, fire, electrical and related codes. If installed outdoors, installation shall be by a licensed and insured installer knowledgeable about the 1proper installation of Antennas. All installations shall be in accordance with the manufacturer's installation specifications.
 
-To the maximum extent possible, wiring or cabling should be installed so as to be minimally visible and shoutd blend into the material to which it is mounted or placed. Where not unreasonable to do so, the Antenna should be painted to blend into the background to which it is mounted or placed, and masts should be painted to match the Antenna mounted on it.
+    4.3 To the maximum extent possible, wiring or cabling should be installed so as to be minimally visible and shoutd blend into the material to which it is mounted or placed. Where not unreasonable to do so, the Antenna should be painted to blend into the background to which it is mounted or placed, and masts should be painted to match the Antenna mounted on it.
 
-The Board may require the Owner to install screens or landscaping, at the Owner's expense, that do not unreasonably delay the Antenna's installation, unreasonably increase the Owner's cost to install, maintain or use the Antenna, or interfere with the Owner's receipt of an acceptable quality signal.
+    4.4 The Board may require the Owner to install screens or landscaping, at the Owner's expense, that do not unreasonably delay the Antenna's installation, unreasonably increase the Owner's cost to install, maintain or use the Antenna, or interfere with the Owner's receipt of an acceptable quality signal.
 
 5.  MAINTENANCE, REPAIR AND REMOVAL
 
-The Owner shail be responsible, at the Owner's sole expense, for the maintenance of any Antenna. In the event the Owner removes the Antenna (and does not reinstall the Antenna), the Owner shall, at his (or her) sole expense, promptly restore the surrounding area to its original condition.
+    5.1 The Owner shail be responsible, at the Owner's sole expense, for the maintenance of any Antenna. In the event the Owner removes the Antenna (and does not reinstall the Antenna), the Owner shall, at his (or her) sole expense, promptly restore the surrounding area to its original condition.
 
-It shall be the Owner's responsibility to remove the Antenna if, in the sole discretion of the Board, the Association must maintain, repair, or replace the area where the Antenna is installed. Except in emergency situations, the Association shall notify the Owner at least seventy-two (72) hours in advance of the need to remove the Antenna. The cost of removing and replacing the Antenna shall be the responsibility of the Owner.
+    5.2 It shall be the Owner's responsibility to remove the Antenna if, in the sole discretion of the Board, the Association must maintain, repair, or replace the area where the Antenna is installed. Except in emergency situations, the Association shall notify the Owner at least seventy-two (72) hours in advance of the need to remove the Antenna. The cost of removing and replacing the Antenna shall be the responsibility of the Owner.
 
-Should an Owner fail to remove the Antenna upon the Association's request, the Association may
-enter the Owner's Unit and Exclusive Use Common Area at reasonable hours with at least seventy-
-two (72 ) hours advance notice and remove the Antenna. The Association shall not be tesponsible
-for any damage to the Antenna or loss of the Owner's video signal incurred in removing the Antenna.
-If the Association must remove the Antenna, the Association may levy a reimbursement charge
-assessment against the Owner's Unit as provided in the Declaration to reimburse the Association for
-Costs incurred in removing the Antenna, after giving the Owner notice and an opportunity for a hearing in accordance with the Association's governing documents. If the Association must remove the
-Antenna, the Association shall not be responsible for replacing it.
+    5.3 Should an Owner fail to remove the Antenna upon the Association's request, the Association may enter the Owner's Unit and Exclusive Use Common Area at reasonable hours with at least seventy- two (72 ) hours advance notice and remove the Antenna. The Association shall not be tesponsible for any damage to the Antenna or loss of the Owner's video signal incurred in removing the Antenna. If the Association must remove the Antenna, the Association may levy a reimbursement charge assessment against the Owner's Unit as provided in the Declaration to reimburse the Association for Costs incurred in removing the Antenna, after giving the Owner notice and an opportunity for a hearing in accordance with the Association's governing documents. If the Association must remove the Antenna, the Association shall not be responsible for replacing it.
 
 6.  LIABILITY OF OWNERS FOR DAMAGE TO COMMON AREA, ATRIUMS AND PATIOS
 
-As clearly set forth in the Declaration, the responsibility of the Association for maintenance and repair of the Common Area (including Exclusive Common Area which consists of balconies, patios, i.e.,
-garden areas, and/or decks) shall not extend to repairs or replacements arising out of or caused by
-the wilful or negligent act of an Owner or his (or her) guests, tenants or invitees; rather, the Owner is responsible for such repairs or replacements. The Declaration further provides that the Owner shall be liable to the Association for all damages to the Common Area (which includes Exclusive Common Area) or improvements thereon caused by such Owner of any occupant of his’ (or her) condominium or guest, and such liability shall only be established after notice to the Owner and the opportunity for a hearing before the Board, as provided in the governing documents.
+    6.1 As clearly set forth in the Declaration, the responsibility of the Association for maintenance and repair of the Common Area (including Exclusive Common Area which consists of balconies, patios, i.e., garden areas, and/or decks) shall not extend to repairs or replacements arising out of or caused by the wilful or negligent act of an Owner or his (or her) guests, tenants or invitees; rather, the Owner is responsible for such repairs or replacements. The Declaration further provides that the Owner shall be liable to the Association for all damages to the Common Area (which includes Exclusive Common Area) or improvements thereon caused by such Owner of any occupant of his’ (or her) condominium or guest, and such liability shall only be established after notice to the Owner and the opportunity for a hearing before the Board, as provided in the governing documents.
 
 7.  CABLE RUNS
 
-To the maximum extent possible, wiring or cabling should be installed so as to be minimally visible and shoutd blend into the material to which it is mounted or placed. Where not unreasonable to do so, the Antenna should be painted to blend into the background to which it is mounted or placed, and masts should be painted to match the Antenna mounted on it.  Cabling must penetrate the bulding at the level the antaena or dish is isntalled, further cable may not traverse from one level to another.
+    7.1 To the maximum extent possible, wiring or cabling should be installed so as to be minimally visible and shoutd blend into the material to which it is mounted or placed. Where not unreasonable to do so, the Antenna should be painted to blend into the background to which it is mounted or placed, and masts should be painted to match the Antenna mounted on it.  Cabling must penetrate the bulding at the level the antaena or dish is isntalled, further cable may not traverse from one level to another.
 
-The Board may require the Owner to install screens or landscaping, at the Owner's expense, that do
-
-not unreasonably delay the Antenna's installation, unreasonably increase the Owner's cost to install, maintain or use the Antenna, or interfere with the Owner's receipt of an acceptable quality signal.
+    7.2 The Board may require the Owner to install screens or landscaping, at the Owner's expense, that do not unreasonably delay the Antenna's installation, unreasonably increase the Owner's cost to install, maintain or use the Antenna, or interfere with the Owner's receipt of an acceptable quality signal.
 
 
 8.  ENFORCEMENT OF POLICY
 
-Owner is responsible for all costs, and legal fees incured by the HOA in enforcing this policy.
+    8.1 Owner is responsible for all costs, and legal fees incured by the HOA in enforcing this policy.
