@@ -2,7 +2,7 @@
 
 Heritage Commons Home Owners Association Docs
 
-CC&R's, Rules and Regulations, and Policy Documents, and Forms
+CC&R's, Rules and Regulations, Policy Documents, and Forms
 
 Forms Instructions:
 
