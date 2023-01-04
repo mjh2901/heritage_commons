@@ -1,0 +1,43 @@
+HERITAGE COMMONS HOME OWNERS ASSOCIATION
+Style Sheet
+
+1 INTRODUCTION
+All association documents should be written in plain text following this formatting
+
+2. DOCUMENT NAMING 
+
+    2.1 Governing Documents: CC&R.txt 
+
+    2.2 Policies:   Gov Docs - Subject Policy.txt
+
+    2.3 Forms: Form - Subject.txt 
+
+3. DOCUMENT FORMATTING 
+
+LINE 1: ASSOCIATION NAME IN CAPS
+Line 2: Document Title
+
+1.  SECTION TITLE ALL CAPS
+    Section Information
+
+    1.1 Subsection 
+
+        1.1.1 Sub-Section
+
+        -   List
+
+        [ ] Check box
+
+
+4. FORMATTING RULES
+
+    4.1 All spacing is performed using a tab
+
+    4.2 Section, Subsections and List need to be double spaced
+
+    4.3 Paragraphes need to be seperated by a space
+
+    4.4 Check off lists are formatted with a [ ] as the checkbox
+
+    4.5 Lists items are preceded by a - 
+
